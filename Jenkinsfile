@@ -12,7 +12,7 @@ pipeline {
             steps {
                 git(
                     branch: 'main',
-                    url: 'https://github.com/Irfaanpk/MavenApp-deployment-to-Ec2-with-JenkinsPipeline.git'
+                    url: 'https://github.com/pmanju1616-bit/MavenApp-deployment-to-Ec2-with-JenkinsPipeline.git'
                 )
             }
         }
